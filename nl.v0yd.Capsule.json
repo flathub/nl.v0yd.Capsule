@@ -1,7 +1,7 @@
 {
     "id": "nl.v0yd.Capsule",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "46",
+    "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "command": "nl.v0yd.Capsule",
     "finish-args": [
