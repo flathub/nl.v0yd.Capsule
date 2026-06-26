@@ -1,7 +1,7 @@
 {
     "id": "nl.v0yd.Capsule",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "command": "nl.v0yd.Capsule",
     "finish-args": [
@@ -18,8 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/verdre/Capsule.git",
-                    "commit": "f5cd6333fe148ca1daea1e05dc5185dd27e1ff04",
-                    "tag": "v1.1"
+                    "tag": "v1.1",
+                    "commit": "f5cd6333fe148ca1daea1e05dc5185dd27e1ff04"
                 },
                 {
                     "type": "patch",
